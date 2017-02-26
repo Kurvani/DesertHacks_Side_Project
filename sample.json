@@ -1,0 +1,30 @@
+{
+    "heading": [
+        "Watch out people",
+        "Everyone stand back, I'm going to"
+    ],
+
+    "response": [
+        "Already fucking seen one",
+        "Give me a-fucking-nother one",
+        "Don't really give a fuck"
+    ],
+
+    "template": [
+        "Hack together @color @animal",
+        "Stupid @animal with @color fur"
+    ],
+
+    "animal": [
+        "Tinder Clone",
+        "cat",
+        "rabbit"
+    ],
+
+    "color": [
+        "Innovative",
+        "blue",
+        "green",
+        "yellow"
+    ]
+}
